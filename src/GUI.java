@@ -70,7 +70,7 @@ public class GUI {
         cargo.setText("cargo");
         jornada.setText("jornada");
         estudios.setText("estudios");
-        salario.setText("salario");       
+        salario.setText("salario");      
        
        
         boton1.setText("Aceptar");
